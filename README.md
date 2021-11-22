@@ -1,3 +1,3 @@
 # my-repo
 my first repo
-my first
+my first repositorium
